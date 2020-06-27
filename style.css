@@ -1,0 +1,46 @@
+body{
+    background-color: brown;
+}
+.main{
+    border: 2px solid gray;
+    width: 250px;
+    margin: 0 auto;
+    background-color: red;
+    border-radius: 20px;
+    padding: 5px;
+}
+.result1{
+    width: 95%;
+    background-color: grey;
+    color: white;
+    padding-top:4px ;
+    border-radius: 5px;
+}
+.result1:hover{
+    background-color: blue;
+}
+.btncl{
+    width: 100%;
+   margin-top: 10px;
+   padding-top: 5px;
+   background-color:blueviolet;
+   border-radius: 20px;
+}
+.btn{
+    width: 55px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color:blueviolet ;
+}
+.btn:hover{
+    background-color: royalblue;
+}
+.halfbtn{
+    width: 55px;
+    border-radius: 10px;
+    margin: 1px;
+    background-color: blueviolet;
+}
+.halfbtn:hover{
+    background-color:royalblue ;
+}
